@@ -23,6 +23,8 @@
     "start": "electron ./main/main.js"
   },
   "dependencies": {
-    "electron": "^1.8.4"
+    "electron": "^1.8.4",
+    "node-loader": "^0.6.0",
+    "react-hls": "0.0.8"
   }
 }
